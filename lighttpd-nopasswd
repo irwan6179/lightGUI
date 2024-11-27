@@ -1,0 +1,3 @@
+katsana ALL=(ALL) NOPASSWD: /usr/sbin/lighttpd
+katsana ALL=(ALL) NOPASSWD: /usr/bin/systemctl restart lighttpd
+katsana ALL=(ALL) NOPASSWD: /usr/bin/systemctl status lighttpd
