@@ -21,7 +21,7 @@ A modern web interface for managing Lighttpd virtual host configurations.
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/irwan6179/lightGUI.git
 cd lightGUI
 ```
 
